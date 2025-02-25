@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+That is a design of a systolic array which has approximate multiplier inside
 
 ## How to test
-
-Explain how to use your project
+Simply by generating the test benches
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Fgpa based simualtion fir all the test benches is the good source to test that design
